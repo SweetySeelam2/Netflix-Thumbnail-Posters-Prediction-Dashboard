@@ -58,7 +58,7 @@ Deep Learning-Based CNN Classifier | Performance & Business Insights
 
 - 📌 Dominant Top-3 Prediction Pattern:
       
-      - “Drama > Thriller > Romance” appeared 1,094 times, accounting for 91.1% of all predictions, showing a severe bias toward Drama.                                                        
+  - “Drama > Thriller > Romance” appeared 1,094 times, accounting for 91.1% of all predictions, showing a severe bias toward Drama.                                                        
 
 ---
 
@@ -71,30 +71,34 @@ Deep Learning-Based CNN Classifier | Performance & Business Insights
 - 💸 Annual manual tagging cost = 100,000 × $1.25 = $125,000
 
 **📉 Without the model:**
-    - All posters would need manual labeling.
+  
+  - All posters would need manual labeling.
 
-    - This leads to high operational costs and manual workload.
+  - This leads to high operational costs and manual workload.
 
 **📉 With the current model (Accuracy = 20.23%):**
-    - Only 20,230 posters would be correctly classified.
+  
+  - Only 20,230 posters would be correctly classified.
 
-    - ~79,770 posters (≈ 80%) would still require manual correction.
+  - ~79,770 posters (≈ 80%) would still require manual correction.
 
-    - 💰 Estimated savings = 20,230 × $1.25 = $25,287
+  - 💰 Estimated savings = 20,230 × $1.25 = $25,287
 
-    - ❗ Uncovered cost (manual correction) = $99,713
+  - ❗ Uncovered cost (manual correction) = $99,713
 
 **⚠️ Revenue Loss Due to Misclassification:**
-    - Misleading thumbnails reduce CTR (Click-Through Rate) by 4–8%.
+  
+  - Misleading thumbnails reduce CTR (Click-Through Rate) by 4–8%.
 
-    - If a title earns $1,000,000/year, a 4% drop = $40,000 loss/title
+  - If a title earns $1,000,000/year, a 4% drop = $40,000 loss/title
 
-    - Scaled to 1,000 titles/year, that’s $40M/year in opportunity loss
+  - Scaled to 1,000 titles/year, that’s $40M/year in opportunity loss
 
 ***🔥 Final Insight:***
-    - Deploying the model as-is yields $25K in tagging savings but risks up to $40M in annual revenue loss.
+  
+  - Deploying the model as-is yields $25K in tagging savings but risks up to $40M in annual revenue loss.
 
-    - Without improvement, this model would be counterproductive financially and should not be adopted in its current state.
+  - Without improvement, this model would be counterproductive financially and should not be adopted in its current state.
 
 ---
 
