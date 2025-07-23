@@ -1,6 +1,7 @@
+
 # 🎬 Netflix Thumbnail Genre Prediction Dashboard
 
-> Deep Learning-Based CNN Classifier | Performance & Business Insights
+Deep Learning-Based CNN Classifier | Performance & Business Insights
 
 ---
 
@@ -97,26 +98,55 @@
 
 ---
 
-## 🚀 App Demo
+## 🧠 Business Recommendations
 
-You can interactively test the model here:
+If enhanced and adopted by streaming companies like:
 
-👉 [**Live Streamlit App**](https://netflixthumbnailclassifier-dl.streamlit.app/)
+  - Netflix
 
-Features:
-- 📤 Upload your own poster image
-- 📁 Use sample posters from our dataset
-- ⚡ Instant prediction with genre + confidence
-- 📊 Model architecture and overview
+  - Amazon Prime Video
+
+  - Disney+
+
+  - HBO Max
+
+  - Hulu
+
+... the following strategies are essential:
+
+**✅ Actionable Fixes**
+
+- Retrain the model with:
+
+    - More balanced and diverse samples — especially for Comedy, Romance, Action
+
+    - Use more advanced deep learning architectures like EfficientNetV2 or Vision Transformers
+
+- Augment inputs with metadata such as title, synopsis, release tags, etc.
+
+- Use SHAP or LIME explainability to detect genre boundary confusion and biases
+
+- Incorporate the model as a QA tool, not yet as a fully autonomous classifier
+
+- Use Tableau insights to retrain only the most misclassified genre clusters iteratively
+
+**📈 Business Potential**
+
+Once model accuracy improves to 80%+, the platform can:
+
+  - Save $100,000+ annually in manual tagging costs
+
+  - Improve CTR and content match, leading to millions in additional revenue uplift
+
+  - Reduce misclassification impact and increase viewer satisfaction and retention
 
 ---
 
-## 🧠 Recommendations for Future Work
+## 📁 Project Dashboard Links
 
-- 🔄 **Multi-label Classification** (movies often belong to more than one genre)
-- 🧩 **Multi-modal Learning**: Combine poster with movie metadata (title, synopsis)
-- 🔍 **Model Upgrade**: Explore Vision Transformers (ViT, Swin Transformer)
-- 📈 **Dataset Expansion**: Grow to 10,000+ posters using TMDB/IMDb
+[Github Dashboard Repo](https://github.com/sweetyseelam/Netflix-Thumbnail-Posters-Prediction-Dashboard)
+[Github Dashboard PDF Report](https://github.com/SweetySeelam2/Netflix-Thumbnail-Posters-Prediction-Dashboard/blob/main/Netflix%20Thumbnail%20Poster%20Genre%20Prediction.pdf)
+[Live Streamlit App](https://netflixthumbnailclassifier-dl.streamlit.app/)
 
 ---
 
@@ -131,12 +161,15 @@ Email: sweetyseelam2@gmail.com
 🔗 **Profile Links**                                                                                                                                                                       
 [Portfolio Website](https://sweetyseelam2.github.io/SweetySeelam.github.io/)                                                         
 [LinkedIn](https://www.linkedin.com/in/sweetyrao670/)                                                                   
-[GitHub](https://github.com/SweetySeelam2)                                                             
+[GitHub](https://github.com/SweetySeelam2)     
+[Medium](https://medium.com/@sweetyseelam)                                                        
 
 ---
 
-## 📜 License
+## 🔐 Copyrights & Licensing
 
-This project is licensed under the **MIT License**.
+© 2025 Sweety Seelam. All rights reserved.
 
-© 2025 Sweety Seelam
+This project, including its source code, trained models, datasets (where applicable), visuals, and dashboard assets, is protected under copyright and made available for educational, research, and demonstrative purposes only.
+
+Unauthorized commercial use, redistribution, or duplication of any part of this project is strictly prohibited without explicit written permission.
