@@ -144,25 +144,30 @@ Once model accuracy improves to 80%+, the platform can:
 
 ## 📁 Project Dashboard Links
 
-[Github Dashboard Repo](https://github.com/sweetyseelam/Netflix-Thumbnail-Posters-Prediction-Dashboard)
-[Github Dashboard PDF Report](https://github.com/SweetySeelam2/Netflix-Thumbnail-Posters-Prediction-Dashboard/blob/main/Netflix%20Thumbnail%20Poster%20Genre%20Prediction.pdf)
-[Live Streamlit App](https://netflixthumbnailclassifier-dl.streamlit.app/)
+- [Github Dashboard Repo](https://github.com/sweetyseelam/Netflix-Thumbnail-Posters-Prediction-Dashboard)
+
+- [Github Dashboard PDF Report](https://github.com/SweetySeelam2/Netflix-Thumbnail-Posters-Prediction-Dashboard/blob/main/Netflix%20Thumbnail%20Poster%20Genre%20Prediction.pdf)
+
+- [Live Streamlit App](https://netflixthumbnailclassifier-dl.streamlit.app/)
 
 ---
 
 ## 👩‍💼 About the Author    
 
-**Sweety Seelam** | Business Analyst and aspiring Data Scientist                             
+**Sweety Seelam** | Business Analyst | Aspiring Data Scientist                             
 
-| Passionate about building end-to-end ML solutions for real-world problems in media and entertainment                                                                                                            
+> Passionate about building end-to-end ML solutions for real-world problems in media and entertainment                                                                                                            
                                                                                                                                            
 Email: sweetyseelam2@gmail.com                                                   
 
-🔗 **Profile Links**                                                                                                                                                                       
-[Portfolio Website](https://sweetyseelam2.github.io/SweetySeelam.github.io/)                                                         
-[LinkedIn](https://www.linkedin.com/in/sweetyrao670/)                                                                   
-[GitHub](https://github.com/SweetySeelam2)     
-[Medium](https://medium.com/@sweetyseelam)                                                        
+🔗 **Profile Links**                                                                                                                                                                                          
+- [My Portfolio](https://sweetyseelam2.github.io/SweetySeelam.github.io/)
+
+- [LinkedIn](https://www.linkedin.com/in/sweetyrao670/)       
+
+- [GitHub](https://github.com/SweetySeelam2)     
+
+- [Medium](https://medium.com/@sweetyseelam)                                                        
 
 ---
 
